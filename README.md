@@ -21,7 +21,7 @@ Credits -
 " https://momentjs.com/docs/#/use-it/ " 
 
 ScreenShot -
-![Calendar-Application-ScreenShot](/assets/images/Calendar-Application-ScreenShot.jpg)
+![Calendar-Application-ScreenShot]((https://github.com/sensational11/Calendar-Application/blob/main/Calendar-Application-ScreenShot.jpg))
 
 GitHub Project Links -
 https://github.com/sensational11/Calendar-Application
